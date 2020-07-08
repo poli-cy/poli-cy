@@ -1,2 +1,2 @@
-# poli-cy
+# poli.cy
 Website
