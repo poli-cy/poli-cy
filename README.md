@@ -1,2 +1,2 @@
 # poli.cy
-[Website](http://poli.cy)
+[Website](https://poli.cy)
